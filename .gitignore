@@ -5,4 +5,7 @@ target/
 **/password.txt
 **/*.jar
 .war
+*.jpg
 /bin/*
+
+
