@@ -7,6 +7,5 @@ target/
 .war
 *.jpg
 /bin/*
-
-
+.txt
 added line in Origin File
